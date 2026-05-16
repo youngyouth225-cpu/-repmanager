@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "팀ID.번들아이디",
+        "paths": [ "/pet/*" ]
+      }
+    ]
+  }
+}
