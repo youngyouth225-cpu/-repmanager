@@ -2,9 +2,9 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.repmanager",
+    "package_name": "com.eodug.reptilemanager",
     "sha256_cert_fingerprints": [
-      "00:11:22:33:44:55:66:77:88:99:AA:BB:CC:DD:EE:FF:00:11:22:33:44:55:66:77:88:99:AA:BB:CC:DD:EE:FF"
+      "FA:4B:08:44:8A:FD:A5:5A:CE:37:9F:5C:24:45:AB:D6:CD:7D:4A:EB:2E:39:0D:E2:6D:7A:7A:26:B7:A3:97:8E"
     ]
   }
 }]
